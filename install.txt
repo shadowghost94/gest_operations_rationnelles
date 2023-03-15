@@ -1,0 +1,15 @@
+Ce programme fonctionne un peu comme le système mobile money que nous utilisons au quotidien et a chaque affichage, il faut verifier en fonction des noombres ou chiffres presentes, quoi chooisir.
+par exmeple:
+1- Operation standard
+2- Operation structure
+3- operation classes expression
+
+    dans cet exemple l'utilisateur doit choisir et entrer en fonction de l'operation qu'il souhaite effectuer le chiffre correspondant (1,2 ou 3).
+
+    INSTALLATION
+ IL FAUT D'ABORD DECOMPRESSER LE FICHIER !
+
+Pour installer le programme, executer le fichier makefile sur votre console. Ensuite tapez la commande "make" et automatiquement la compilation s'effctue.
+
+            OU
+executerla console sur l'enplacement du dossier et ensuite lancer la commande "make".

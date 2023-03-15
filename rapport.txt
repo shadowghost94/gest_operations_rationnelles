@@ -1,0 +1,5 @@
+1-Lors de l'ecriture de ce programme, le premier problème auquel on était confronté était en rapport avec la compréhension de l'exercice, de l'enoncé. On savait pas exactement comment organiser les 3 parties, si il faut les mettres dans un seul fichier .cpp ou carrément créer un nouveau projet pour chaque partie. on a eu 'l'impression que l'exercice demande de procéder en utiliasant une méthode précise, seulement il existe differente façon de faire la meme opération mais en utilisant carrément autre méthode. Et donc c'était difficile de savoir quoi faire exactement.
+
+2- le deuxieme problème rencontré était en rapport avec la definition des fonctions raionnelles simple et des fonctions rationnelles normalisées, et donc comment les utiliser pour effectuer les differents opérations.
+
+3-la
